@@ -4,7 +4,7 @@ import pymc as pm
 
 # ------------ DATA PREP -------------
 
-prepped_filename = "mt_ce_data"
+prepped_filename = "mt_ce_data" # stated choice data further cleaned by SA
 raw_filename = "IS1326_ce_data_BIOGEME_updated" # sent from Jason Soria, cleaned stated choice experiment in Israel 
 
 def prep_data(prepped_filename):
